@@ -33,7 +33,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 ---
 
-### ✨ Thanks for visiting my profile ❤️
+### 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eslammassry1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
