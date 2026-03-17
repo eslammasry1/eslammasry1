@@ -34,9 +34,7 @@
 ---
 ---
 
-## 📈 Activity Graph
 
-![Eslam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eslammassry1&theme=tokyo-night)
 ### 
 
 <p align="center">
