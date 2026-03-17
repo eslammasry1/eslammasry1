@@ -20,3 +20,14 @@
 
 ### 🗄 Databases
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-red?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+### 🧠 Computer Science
+![Data Structures](https://img.shields.io/badge/Data%20Structures-blue?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-orange?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-purple?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-green?style=for-the-badge)
+
+### 🛠 Tools
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-purple?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
