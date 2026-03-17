@@ -32,7 +32,11 @@
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 ---
+---
 
+## 📈 Activity Graph
+
+![Eslam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eslammassry1&theme=tokyo-night)
 ### 
 
 <p align="center">
