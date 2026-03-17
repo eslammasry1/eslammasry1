@@ -31,3 +31,10 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+## 📊 GitHub Stats
+
+![Eslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=eslammassry1&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=eslammassry1&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eslammassry1&layout=compact&theme=tokyonight)
