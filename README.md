@@ -131,51 +131,12 @@ Backend .NET Developer | Physics Student | Faculty of Science, Damanhour Univers
 
 ---
 
-# 📚 Core Knowledge
-
-✔ Programming Fundamentals
-
-✔ Algorithms
-
-✔ Problem Solving
-
-✔ Object-Oriented Programming
-
-✔ SOLID Principles
-
-✔ Data Structures
-
-✔ SQL Server
-
-✔ Database Design
-
-✔ ADO.NET
-
-✔ CRUD Operations
-
-✔ Parameterized Queries
-
-✔ ExecuteReader
-
-✔ ExecuteScalar
-
-✔ ExecuteNonQuery
-
-✔ DataTable
-
-✔ DataSet
-
-✔ DataAdapter
-
-✔ 3-Tier Architecture
-
 ---
 
 # 🎯 Current Focus
 
 ```text
 Backend Development      ███████████░░ 85%
-
 SQL Server               ████████████░ 95%
 
 ADO.NET                  ███████████░░ 90%
