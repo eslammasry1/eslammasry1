@@ -185,15 +185,55 @@ Data Access Layer
         ↓
 SQL Server Database
 
-📊 GitHub Statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=eslammasry1&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslammasry1&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-🔥 GitHub Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=eslammasry1&theme=tokyonight&hide_border=true" /> </p>
-📈 GitHub Profile Summary
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eslammasry1&theme=tokyonight" /> </p>
-📊 Contribution Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=eslammasry1&theme=tokyo-night&hide_border=true" /> </p>
-👥 GitHub Followers & Profile Views
-<p align="center"> <img src="https://img.shields.io/github/followers/eslammasry1?label=Followers&style=for-the-badge&logo=github&logoColor=white" /> <img src="https://komarev.com/ghpvc/?username=eslammasry1&label=Profile%20Views&color=0e75b6&style=for-the-badge" /> </p>
-🚀 Keep Building
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:00F7FF&height=120&section=footer" /> </p> <h2 align="center">⭐ Thanks for visiting my profile ⭐</h2> <h3 align="center">Building • Learning • Improving 🚀</h3
+---
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eslammasry1&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslammasry1&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=eslammasry1&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 GitHub Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eslammasry1&theme=tokyonight" />
+</p>
+
+---
+
+# 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eslammasry1&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 👥 GitHub Followers & Profile Views
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/eslammasry1?label=Followers&style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=eslammasry1&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+# 🚀 Keep Building
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:00F7FF&height=120&section=footer" />
+</p>
+
+<h2 align="center">⭐ Thanks for visiting my profile ⭐</h2>
+
+<h3 align="center">Building • Learning • Improving 🚀</h3>
