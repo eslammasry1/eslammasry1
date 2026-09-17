@@ -184,3 +184,9 @@ Business Logic Layer
 Data Access Layer
         ↓
 SQL Server Database
+
+📚 Learning Journey
+
+My journey started with programming fundamentals and gradually moved toward building complete real-world applications.
+
+<p align="center"> <img src="https://img.shields.io/badge/Programming%20Fundamentals-Completed-success?style=for-the-badge"/> <img src="https://img.shields.io/badge/Problem%20Solving-Completed-success?style=for-the-badge"/> <img src="https://img.shields.io/badge/Algorithms-Completed-success?style=for-the-badge"/> <img src="https://img.shields.io/badge/OOP-Completed-success?style=for-the-badge"/> </p> <p align="center"> <img src="https://img.shields.io/badge/Data%20Structures-Completed-success?style=for-the-badge"/> <img src="https://img.shields.io/badge/SQL%20Server-Completed-success?style=for-the-badge"/> <img src="https://img.shields.io/badge/C%23-Completed-success?style=for-the-badge"/> <img src="https://img.shields.io/badge/ADO.NET-Completed-success?style=for-the-badge"/> </p> <p align="center"> <img src="https://img.shields.io/badge/3--Tier%20Architecture-Completed-success?style=for-the-badge"/> <img src="https://img.shields.io/badge/Real--World%20Projects-Active-00AEEF?style=for-the-badge"/> </p>
