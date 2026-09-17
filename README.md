@@ -9,7 +9,7 @@ Building real-world software with C#, .NET, SQL Server, ADO.NET and 3-Tier Archi
 </p>
 
 <p align="center">
-<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+.NET+Developer;C%23+Developer;SQL+Server+Developer;ADO.NET+Developer;3-Tier+Architecture;Problem+Solver;Software+Engineering+Enthusiast;Always+Learning](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+.NET+Developer;C%23+Developer;SQL+Server+Developer;ADO.NET+Developer;3-Tier+Architecture;Problem+Solver;Software+Engineering+Enthusiast;Always+Learning)+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+.NET+Developer;C%23+Developer;SQL+Server+Developer;ADO.NET+Developer;3-Tier+Architecture;Problem+Solver;Software+Engineering+Enthusiast;Always+Learning+🚀" />
 </p>
 
 ---
@@ -44,9 +44,9 @@ Building real-world software with C#, .NET, SQL Server, ADO.NET and 3-Tier Archi
 ## 💻 Programming Languages
 
 <p>
-<img src="[https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ---
@@ -54,10 +54,10 @@ Building real-world software with C#, .NET, SQL Server, ADO.NET and 3-Tier Archi
 ## ⚙️ .NET & Backend
 
 <p>
-<img src="[https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge)"/>
-<img src="[https://img.shields.io/badge/3--Tier%20Architecture-333333?style=for-the-badge](https://img.shields.io/badge/3--Tier%20Architecture-333333?style=for-the-badge)"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/3--Tier%20Architecture-333333?style=for-the-badge"/>
 </p>
 
 ---
@@ -65,11 +65,11 @@ Building real-world software with C#, .NET, SQL Server, ADO.NET and 3-Tier Archi
 ## 🗄️ Database
 
 <p>
-<img src="[https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/Database%20Design-4479A1?style=for-the-badge](https://img.shields.io/badge/Database%20Design-4479A1?style=for-the-badge)"/>
-<img src="[https://img.shields.io/badge/Normalization-00758F?style=for-the-badge](https://img.shields.io/badge/Normalization-00758F?style=for-the-badge)"/>
-<img src="[https://img.shields.io/badge/CRUD-4CAF50?style=for-the-badge](https://img.shields.io/badge/CRUD-4CAF50?style=for-the-badge)"/>
-<img src="[https://img.shields.io/badge/Stored%20Procedures-6A1B9A?style=for-the-badge](https://img.shields.io/badge/Stored%20Procedures-6A1B9A?style=for-the-badge)"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database%20Design-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Normalization-00758F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CRUD-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Stored%20Procedures-6A1B9A?style=for-the-badge"/>
 </p>
 
 ---
@@ -77,11 +77,11 @@ Building real-world software with C#, .NET, SQL Server, ADO.NET and 3-Tier Archi
 ## 🧠 Computer Science
 
 <p>
-<img src="[https://img.shields.io/badge/OOP-6A1B9A?style=for-the-badge](https://img.shields.io/badge/OOP-6A1B9A?style=for-the-badge)"/>
-<img src="[https://img.shields.io/badge/Algorithms-FF9800?style=for-the-badge](https://img.shields.io/badge/Algorithms-FF9800?style=for-the-badge)"/>
-<img src="[https://img.shields.io/badge/Data%20Structures-1976D2?style=for-the-badge](https://img.shields.io/badge/Data%20Structures-1976D2?style=for-the-badge)"/>
-<img src="[https://img.shields.io/badge/Problem%20Solving-2E7D32?style=for-the-badge](https://img.shields.io/badge/Problem%20Solving-2E7D32?style=for-the-badge)"/>
-<img src="[https://img.shields.io/badge/Software%20Engineering-B71C1C?style=for-the-badge](https://img.shields.io/badge/Software%20Engineering-B71C1C?style=for-the-badge)"/>
+<img src="https://img.shields.io/badge/OOP-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithms-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Structures-1976D2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-2E7D32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software%20Engineering-B71C1C?style=for-the-badge"/>
 </p>
 
 ---
@@ -89,10 +89,10 @@ Building real-world software with C#, .NET, SQL Server, ADO.NET and 3-Tier Archi
 ## 🛠️ Tools
 
 <p>
-<img src="[https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=gitHub&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=gitHub&logoColor=white)"/>
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=gitHub&logoColor=white"/>
 </p>
 
 ---
