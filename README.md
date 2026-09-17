@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Eslam Elmasry</h1>
 
 <h3 align="center">
-Backend .NET Developer | Physics Student | Faculty of Science, Damanhour University
+Backend .NET Developer | C# Developer | Physics Student
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+.NET+Developer;C%23+Developer;SQL+Server+Developer;ADO.NET+%7C+3-Tier+Architecture;Problem+Solver;Software+Engineering+Enthusiast;Always+Learning+🚀" />
+Building real-world software with C#, .NET, SQL Server, ADO.NET and 3-Tier Architecture.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+.NET+Developer;C%23+Developer;SQL+Server+Developer;ADO.NET+Developer;3-Tier+Architecture;Problem+Solver;Software+Engineering+Enthusiast;Always+Learning+🚀" />
 </p>
 
 ---
@@ -14,13 +18,11 @@ Backend .NET Developer | Physics Student | Faculty of Science, Damanhour Univers
 
 🎓 Physics Student at **Faculty of Science, Damanhour University**
 
-💻 Passionate Backend Developer specializing in **.NET Technologies**
+💻 **Backend .NET Developer** focused on building practical and real-world applications.
 
-🧠 Strong background in Computer Science fundamentals
+🧠 Strong foundation in:
 
-📚 Completed **18+ Professional Courses** covering:
-
-- Programming Foundations
+- Programming Fundamentals
 - Problem Solving
 - Algorithms
 - Object-Oriented Programming
@@ -31,217 +33,154 @@ Backend .NET Developer | Physics Student | Faculty of Science, Damanhour Univers
 - ADO.NET
 - 3-Tier Architecture
 
-❤️ I enjoy understanding **how technologies work internally before using frameworks.**
+🔨 I focus on understanding the fundamentals behind the technology, not just using ready-made solutions.
 
-🚀 Currently preparing for professional Backend Development using **ASP.NET Core**.
-
----
-
-# 🏆 Learning Journey
-
-✅ Programming Foundations
-
-✅ Problem Solving (5 Levels)
-
-✅ Algorithms
-
-✅ OOP
-
-✅ Data Structures
-
-✅ SQL Server
-
-✅ Database Design
-
-✅ C#
-
-✅ ADO.NET
-
-✅ 3-Tier Architecture
-
-🚀 Next:
-
-- LINQ
-- Entity Framework Core
-- ASP.NET Core MVC
-- ASP.NET Core Web API
-- Authentication & Authorization
-- Design Patterns
-- Clean Architecture
+🚀 Currently continuing my journey toward professional **ASP.NET Core Backend Development**.
 
 ---
 
-# 🚀 Tech Stack
+# 🛠️ Tech Stack
 
-## 💻 Languages
+## 💻 Programming Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
----
-
-## ⚙ Backend
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-![ADO.NET](https://img.shields.io/badge/ADO.NET-blue?style=for-the-badge)
-
-![3-Tier](https://img.shields.io/badge/3--Tier-Architecture-success?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
 
 ---
 
-## 🗄 Database
+## ⚙️ .NET & Backend
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-red?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/3--Tier%20Architecture-333333?style=for-the-badge"/>
+</p>
 
-![Database Design](https://img.shields.io/badge/Database_Design-orange?style=for-the-badge)
+---
 
-![Normalization](https://img.shields.io/badge/Normalization-blue?style=for-the-badge)
+## 🗄️ Database
 
-![CRUD](https://img.shields.io/badge/CRUD-success?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database%20Design-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Normalization-00758F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CRUD-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Stored%20Procedures-6A1B9A?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 🧠 Computer Science
 
-![Algorithms](https://img.shields.io/badge/Algorithms-orange?style=for-the-badge)
-
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-brightgreen?style=for-the-badge)
-
-![Data Structures](https://img.shields.io/badge/Data_Structures-blue?style=for-the-badge)
-
-![OOP](https://img.shields.io/badge/OOP-purple?style=for-the-badge)
-
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-red?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/OOP-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithms-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Structures-1976D2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-2E7D32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software%20Engineering-B71C1C?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🛠 Tools
+## 🛠️ Tools
 
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
+<p>
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=gitHub&logoColor=white"/>
+</p>
 
 ---
 
-# 🎯 Current Focus
+# 🚀 Featured Projects
+
+## 🚗 DVLD - Driving & Vehicle License Department Management System
+
+A complete management system built using:
+
+- C#
+- Windows Forms
+- SQL Server
+- ADO.NET
+- 3-Tier Architecture
+
+The system simulates a real-world Driving & Vehicle License Department and includes:
+
+- People Management
+- Applications Management
+- Driving Licenses
+- Local Driving License
+- International Driving License
+- License Renewal
+- License Replacement
+- License Detention
+- License Release
+- Tests Management
+- Users & Permissions
+- Application Workflow
+- Database Management
+
+🔗 **Check the project on my GitHub repositories**
+
+---
+
+## 🏦 Bank Management System
+
+A real-world banking management application developed using **C# and SQL Server**.
+
+### Features:
+
+- Client Management
+- User Management
+- Login & Registration
+- Permissions System
+- Transactions
+- Deposits
+- Withdrawals
+- Transfers
+- Currency Management
+- Currency Calculator
+- File Handling
+- SQL Server Database
+
+The project focuses on applying:
+
+- OOP
+- Database Design
+- ADO.NET
+- 3-Tier Architecture
+- File Handling
+- Authentication & Authorization
+
+---
+
+## 🎮 Other Projects
+
+I have also built several practical applications while progressing through my programming roadmap, including:
+
+- Windows Forms Applications
+- Tic Tac Toe Game
+- Pizza Ordering System
+- Database-driven applications
+- Algorithms & Problem Solving projects
+- Data Structures implementations
+
+---
+
+# 🏗️ Architecture & Development Practices
+
+I focus on writing applications using clear separation of responsibilities.
 
 ```text
-Backend Development      ███████████░░ 85%
-SQL Server               ████████████░ 95%
-
-ADO.NET                  ███████████░░ 90%
-
-Algorithms               ██████████░░░ 85%
-
-ASP.NET Core             ███░░░░░░░░░░ 30%
-```
-
----
-
-# 🎯 2026 Goals
-
-✅ Master ASP.NET Core
-
-✅ Master Entity Framework Core
-
-✅ Build REST APIs
-
-✅ Learn Clean Architecture
-
-✅ Learn Design Patterns
-
-✅ Build Enterprise-Level Projects
-
-✅ Contribute to Open Source
-
----
-
-# 🏅 Achievements
-
-🏆 Completed **18+ Courses** in Software Engineering Roadmap.
-
-💻 Built multiple Desktop Applications using C#.
-
-🗄 Designed relational databases with SQL Server.
-
-⚙ Applied 3-Tier Architecture in real projects.
-
-📂 Published practical projects on GitHub.
-
----
-
-# 💡 Philosophy
-
-> "Understanding the fundamentals is more valuable than memorizing frameworks."
-
-> "First, solve the problem. Then, write the code."
-
----
-
-# 🚀 Fun Fact
-
-I prefer learning technologies from the ground up.
-
-That's why I mastered SQL and ADO.NET before moving to Entity Framework.
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eslammasry1&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslammasry1&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=eslammasry1&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eslammasry1&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eslammasry1&theme=tokyo-night"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=eslammasry1&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
-<h2 align="center">⭐ Thank you for visiting my profile ⭐</h2>
-
-<h3 align="center">
-Let's Build Amazing Software Together 🚀
-</h3>
+Presentation Layer
+        ↓
+Business Logic Layer
+        ↓
+Data Access Layer
+        ↓
+SQL Server Database
